@@ -41,7 +41,7 @@ Certifique-se de conectar os componentes conforme as conexões listadas acima pa
 
 ## Código Fonte
 
-O código fonte para este projeto está disponível [aqui no GitHub](https://github.com/ThiagoFAm/Projetos/blob/master/Arduino/Projeto%20Somador/Somador_2bits/Somador_2bits.ino). Além disso, para uma visualização interativa do projeto, clique [aqui no Tinkercad](https://www.tinkercad.com/things/iBgTi3ulpCg).
+O código fonte para este projeto está disponível [aqui no GitHub](https://github.com/ThiagoFAm/Somador-de-2bits-ino?tab=readme-ov-file). Além disso, para uma visualização interativa do projeto, clique [aqui no Tinkercad](https://www.tinkercad.com/things/iBgTi3ulpCg).
 
 ## Contato
 
